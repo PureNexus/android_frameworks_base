@@ -24,7 +24,7 @@
     <!-- Button to reboot the phone into bootloader in reboot menu -->
     <string name="reboot_bootloader">Gestor de arranque</string>
     <!-- Button to soft reboot the device in reboot menu -->
-    <string name="reboot_soft">Reinicio suave</string>
+    <string name="reboot_soft">Reinicio rápido</string>
     <!-- Reboot Confirmation Dialog. -->
     <string name="reboot_confirm" product="tablet">La tablet se reiniciará.</string>
     <string name="reboot_confirm" product="default">El teléfono se reiniciará.</string>
